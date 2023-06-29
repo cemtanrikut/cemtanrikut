@@ -1,13 +1,13 @@
 ### 👋 Hi there, I'm Cem Tanrikut 👨‍💻
 
-Hey, I'm Cem. I'm a Golang Developer in Yemeksepeti & Delivery Hero Global Tech Hub.  
+Hey, I'm Cem. I'm a Golang Developer in Netherlands 🇳🇱.  
 A book lover 📚 coffee lover ☕️ and **Pokemon** fan.
 
 ## 🌱 I'm a Gopher, Vegetarian and Coffee Lover!
 
 - 👨‍💻 I’m a backend engineer from Istanbul, Turkey
 - 📖 I’m currently learning frontend development
-- 🥅 2022 Goals: Develop more Golang APIs and learn to Flutter
+- 🥅 2023 Goals: Develop more Golang APIs and learn to Flutter
 - ⚡ Fun fact: I love to Japanese Culture like foods, mangas and anime
 
 
