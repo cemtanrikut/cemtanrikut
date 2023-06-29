@@ -5,7 +5,7 @@ A book lover 📚 coffee lover ☕️ and **Pokemon** fan.
 
 ## 🌱 I'm a Gopher, Vegetarian and Coffee Lover!
 
-- 👨‍💻 I’m a backend engineer from Istanbul, Turkey
+- 👨‍💻 I’m a backend engineer from Netherlands 
 - 📖 I’m currently learning frontend development
 - 🥅 2023 Goals: Develop more Golang APIs and learn to Flutter
 - ⚡ Fun fact: I love to Japanese Culture like foods, mangas and anime
